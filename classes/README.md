@@ -12,10 +12,9 @@ These are just like classes but are not hoisted at the top like classes . Thet a
 ### Getters and Setters 
 special methods in JavaScript that allow you to define how properties of an object are accessed and modified. They provide a way to control access to object properties and perform validation or computations when getting or setting their values.
 
-*** Getter: ***
-A getter is a method that gets the value of a specific property. When you access the property using dot notation or bracket notation, the getter function is automatically invoked, and its return value is used as the value of the property. Getters are defined using the get keyword followed by the property name. 
-
-*** Setter: ***
+1. Getter: 
+A getter is a method that gets the value of a specific property. When you access the property using dot notation or bracket notation, the getter function is automatically invoked, and its return value is used as the value of the property. Getters are defined using the get keyword followed by the property name.
+2. Setter: 
 A setter is a method that sets the value of a specific property. When you assign a value to the property using the assignment operator (=), the setter function is automatically invoked with the assigned value. Setters are defined using the set keyword followed by the property name.
 
 
